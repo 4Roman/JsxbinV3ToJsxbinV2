@@ -1,0 +1,2 @@
+C:\Users\Roman\Desktop\Freelance\2 Заказ\jsxbin-to-jsx-converter\JsxbinTojsx\obj\Debug\jsxbin_to_jsx.exe
+C:\Users\Roman\Desktop\Freelance\2 Заказ\jsxbin-to-jsx-converter\JsxbinTojsx\obj\Debug\jsxbin_to_jsx.pdb
