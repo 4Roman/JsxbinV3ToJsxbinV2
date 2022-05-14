@@ -1,4 +1,4 @@
-# JsxbinToJsx
+# JsxbinV3ToJsxbinV2
 Jsxbin to jsx file converter that supports version 1 and 2 files.
 How it works?
 This application will convert jsxbin file named "1" ("1.jsxbin") to jsx named "2" ("2.jsx")
