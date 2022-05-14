@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd74d152-acd1-45d3-a7f8-0d4839ad89b0": {
+      "ProjectGuid": "bd74d152-acd1-45d3-a7f8-0d4839ad89b0",
+      "DisplayName": "JsxbinV3ToJsxbinV2",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

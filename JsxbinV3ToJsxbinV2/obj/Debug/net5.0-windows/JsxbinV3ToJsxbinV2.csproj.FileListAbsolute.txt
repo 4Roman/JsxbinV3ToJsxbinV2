@@ -1,0 +1,16 @@
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\bin\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.exe
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\bin\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.deps.json
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\bin\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.runtimeconfig.json
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\bin\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\bin\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\bin\Debug\net5.0-windows\ref\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\bin\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.pdb
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.AssemblyInfo.cs
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\ref\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.pdb
+C:\Users\Roman\source\repos\4Roman\JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2\obj\Debug\net5.0-windows\JsxbinV3ToJsxbinV2.genruntimeconfig.cache

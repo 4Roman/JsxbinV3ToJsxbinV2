@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3wAeFHEe5CwZfzNkR/uaaCjL9WMrE7iQzTUJi/QC/OG8+x77VEzqce6ChCs1PiKpUmJUqJu5oUyuf0+ST/oI4g==",
+  "dgSpecHash": "HBSEmyVh85sHoCZ3VVpP5B9XsaSn1xKLsBxyg0WumolY1TRtw9pGHmGYxFh4pAtB1OhBUiuUGkp+lOa4yGACcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roman\\source\\repos\\FormaT_2.1\\FormaT_2.1\\JsxbinV3ToJsxbinV2.csproj",
+  "projectFilePath": "C:\\Users\\Roman\\source\\repos\\4Roman\\JsxbinV3ToJsxbinV2\\JsxbinV3ToJsxbinV2\\JsxbinV3ToJsxbinV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Roman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

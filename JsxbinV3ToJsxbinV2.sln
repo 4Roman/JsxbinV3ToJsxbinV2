@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsxbinV3ToJsxbinV2", "FormaT_2.1\JsxbinV3ToJsxbinV2.csproj", "{AB4887C1-D0AE-4417-AB48-06BE47A99908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsxbinV3ToJsxbinV2", "JsxbinV3ToJsxbinV2\JsxbinV3ToJsxbinV2.csproj", "{AB4887C1-D0AE-4417-AB48-06BE47A99908}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -2,7 +2,7 @@ using System;
 using System.IO;
 using System.Windows.Forms;
 
-namespace FormaT_2_1
+namespace JsxbinV3ToJsxbinV2
 {
     static class Program
     {
