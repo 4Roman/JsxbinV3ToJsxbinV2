@@ -1,0 +1,14 @@
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\JsxbinV3ToJsxbinV2.exe
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\JsxbinV3ToJsxbinV2.deps.json
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\JsxbinV3ToJsxbinV2.runtimeconfig.json
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\JsxbinV3ToJsxbinV2.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\ref\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\JsxbinV3ToJsxbinV2.csproj.AssemblyReference.cache
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\JsxbinV3ToJsxbinV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\JsxbinV3ToJsxbinV2.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\JsxbinV3ToJsxbinV2.AssemblyInfo.cs
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\JsxbinV3ToJsxbinV2.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\ref\JsxbinV3ToJsxbinV2.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\JsxbinV3ToJsxbinV2.genruntimeconfig.cache

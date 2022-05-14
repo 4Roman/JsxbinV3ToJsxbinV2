@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wAeFHEe5CwZfzNkR/uaaCjL9WMrE7iQzTUJi/QC/OG8+x77VEzqce6ChCs1PiKpUmJUqJu5oUyuf0+ST/oI4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roman\\source\\repos\\FormaT_2.1\\FormaT_2.1\\JsxbinV3ToJsxbinV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

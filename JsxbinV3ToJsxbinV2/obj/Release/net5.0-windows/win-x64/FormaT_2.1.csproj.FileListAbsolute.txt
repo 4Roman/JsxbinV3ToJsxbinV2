@@ -1,0 +1,13 @@
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\win-x64\FormaT_2.1.exe
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\win-x64\FormaT_2.1.deps.json
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\win-x64\FormaT_2.1.runtimeconfig.json
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\win-x64\FormaT_2.1.runtimeconfig.dev.json
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\win-x64\FormaT_2.1.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\bin\Release\net5.0-windows\win-x64\ref\FormaT_2.1.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\win-x64\FormaT_2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\win-x64\FormaT_2.1.AssemblyInfoInputs.cache
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\win-x64\FormaT_2.1.AssemblyInfo.cs
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\win-x64\FormaT_2.1.csproj.CoreCompileInputs.cache
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\win-x64\FormaT_2.1.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\win-x64\ref\FormaT_2.1.dll
+C:\Users\Roman\source\repos\FormaT_2.1\FormaT_2.1\obj\Release\net5.0-windows\win-x64\FormaT_2.1.genruntimeconfig.cache

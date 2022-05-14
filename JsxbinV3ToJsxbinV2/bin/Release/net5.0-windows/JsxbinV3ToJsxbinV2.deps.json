@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "JsxbinV3ToJsxbinV2/1.0.0": {
+        "runtime": {
+          "JsxbinV3ToJsxbinV2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JsxbinV3ToJsxbinV2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
