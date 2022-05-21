@@ -13,5 +13,5 @@ https://github.com/codecopy/jsxbin-to-jsx-converter
 Это форк проекта:
 https://github.com/codecopy/jsxbin-to-jsx-converter
 
-![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+![image](https://github.com/4Roman/JsxbinV3ToJsxbinV2/blob/e17d26786af762b78d4f0354782484d78acbda38/bandicam%202022-05-21%2023-35-48-192.gif)
 Описание:
