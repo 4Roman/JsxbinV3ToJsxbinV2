@@ -12,3 +12,6 @@ https://github.com/codecopy/jsxbin-to-jsx-converter
 
 Это форк проекта:
 https://github.com/codecopy/jsxbin-to-jsx-converter
+
+![image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
+Описание:
